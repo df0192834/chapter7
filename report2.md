@@ -1,0 +1,1 @@
+Create remote storage repository : chapter7
